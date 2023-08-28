@@ -1,0 +1,12 @@
+GET http://localhost:8080/unicodenum/65000/20
+Accept: application/json
+
+###
+GET http://localhost:8080/ch/a
+Accept: application/json
+
+###
+GET http://localhost:8080/unicode/97
+Accept: application/json
+
+###
